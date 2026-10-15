@@ -1,0 +1,9 @@
+{
+  "name": "NEXUS Staff",
+  "description": "Mobile-first POS companion app for retail staff with barcode scanning, offline billing, stock lookup, and emergency alerts.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
